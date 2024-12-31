@@ -2,7 +2,7 @@
 
 **Junior Computer Science Student** at Arizona State University  
 **Passionate about** full-stack development, AI tools, and creating user-centric applications  
-**Currently Working On**: Cliently, a streamlined CRM tool for managing client acquisition and relationships  
+**Currently Working On**: Cliently, a full-stack, streamlined CRM tool for managing client acquisition and relationships  
 
 ### 🌟 My Tech Stack:
 - **Languages**: JavaScript, Python, Java, C#, HTML, CSS
