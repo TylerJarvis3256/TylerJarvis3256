@@ -11,9 +11,9 @@
 - **Tools**: Node.js, Vite
 
 ### 📈 My Goals:
-- 📚 Learn more about React.js and Next.js to improve full-stack expertise  
-- 💼 Secure a software engineering internship for Summer 2025  
-- 🌟 Expand my portfolio with impactful full-stack applications  
+- Learn more about React.js and Next.js to improve full-stack expertise  
+- Secure a software engineering internship for Summer 2025  
+- Expand my portfolio with impactful full-stack applications  
 
 ### 🌍 Projects:
 - [Admin Dashboard](https://github.com/TylerJarvis3256/AdminDashboard): Built a responsive admin dashboard with interactive data visualization using Material-UI and Recharts.  
