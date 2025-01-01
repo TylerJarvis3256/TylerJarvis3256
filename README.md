@@ -1,6 +1,6 @@
 # Hi, I'm Tyler Jarvis! 👋
 
-**Junior Computer Science Student** at Arizona State University  
+** Computer Science Student** at Arizona State University (grad May 2026)  
 **Passionate about** full-stack development, AI tools, and creating user-centric applications  
 **Currently Working On**: Cliently, a full-stack, streamlined CRM tool for managing client acquisition and relationships  
 
@@ -11,8 +11,8 @@
 - **Tools**: Node.js, Vite
 
 ### 📈 My Goals:
-- Learn more about React.js and Next.js to improve full-stack expertise  
 - Secure a software engineering internship for Summer 2025  
+- Learn more about React.js and Next.js to improve full-stack expertise  
 - Expand my portfolio with impactful full-stack applications  
 
 ### 🌍 Projects:
