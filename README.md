@@ -24,5 +24,5 @@
 
 ### 📫 Let's Connect!
 - **Email**: tylerjarvis3256@gmail.com  
-- **LinkedIn**: [Tyler Jarvis LinkedIn](https://linkedin.com/in/tyler-jarvis-b8a72023b)  
-- **GitHub**: [TylerJarvis3256](https://github.com/TylerJarvis3256)  
+- **LinkedIn**: [Tyler Jarvis](https://linkedin.com/in/tyler-jarvis-b8a72023b)  
+- **GitHub**: [Tyler Jarvis](https://github.com/TylerJarvis3256)  
