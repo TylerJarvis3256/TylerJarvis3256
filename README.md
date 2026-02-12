@@ -33,11 +33,9 @@ Full-stack Software Engineer focused on bridging the gap between hospitality ope
 <img src="https://github-readme-stats-fast.vercel.app/api?username=TylerJarvis3256&show_icons=true&theme=radical&hide_border=true&hide_rank=true&title_color=2bbc8a&icon_color=2bbc8a&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TylerJarvis3256&layout=compact&theme=radical&hide_border=true&title_color=2bbc8a&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
-
 <br />
-
 ### Contact and Networking
 
 * Email: tylerjarvis3256@gmail.com
 * LinkedIn: [https://linkedin.com/in/TylerJarvis3256](https://linkedin.com/in/TylerJarvis3256)
-* Portfolio: [https://klevr.vercel.app](https://klevr.vercel.app)
+* Demo Links: [https://klevr.vercel.app](https://klevr.vercel.app)
